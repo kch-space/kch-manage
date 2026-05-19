@@ -1,0 +1,7 @@
+name = "clawhub"
+main = "worker.js"
+compatibility_date = "2026-05-05"
+
+[assets]
+directory = "./"     # 你的 index.html 和资源就在根目录
+binding = "ASSETS"
