@@ -1,4 +1,4 @@
-name = "clawhub"
+name = "kch-manage"
 main = "worker.js"
 compatibility_date = "2026-05-05"
 
