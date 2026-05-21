@@ -1,0 +1,1 @@
+import{s as o}from"./index-CRpbIdpG.js";const e=(t,r)=>o.post("/tool/net/cert",{host:t,port:r}),n=t=>o.post("/tool/net/dns",{domain:t}),p=t=>o.post("/tool/net/ip",t?{ip:t}:{}),u=t=>o.post("/tool/net/http",t);export{n as a,p as b,u as h,e as q};
